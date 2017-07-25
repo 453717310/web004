@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="medusa:war">
+    <output-path>$PROJECT_DIR$/medusa/target</output-path>
+    <root id="archive" name="medusa-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="medusa:war exploded" />
+    </root>
+  </artifact>
+</component>

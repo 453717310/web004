@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="medusa" />
+        <module name="spring" />
+        <module name="spring004" />
+        <module name="spring007" />
+        <module name="spring009" />
+        <module name="spring010" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="medusa" target="1.7" />
+      <module name="shoping" target="1.5" />
+      <module name="spring" target="1.7" />
+      <module name="spring004" target="1.7" />
+      <module name="spring005" target="1.5" />
+      <module name="spring007" target="1.7" />
+      <module name="spring009" target="1.7" />
+      <module name="spring010" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

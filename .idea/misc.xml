@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/medusa" />
+    <file type="web" url="file://$PROJECT_DIR$/spring" />
+    <file type="web" url="file://$PROJECT_DIR$/spring004" />
+    <file type="web" url="file://$PROJECT_DIR$/spring007" />
+    <file type="web" url="file://$PROJECT_DIR$/spring009" />
+    <file type="web" url="file://$PROJECT_DIR$/spring010" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring004/pom.xml" />
+        <option value="$PROJECT_DIR$/medusa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/spring007/pom.xml" />
+        <option value="$PROJECT_DIR$/spring009/pom.xml" />
+        <option value="$PROJECT_DIR$/spring010/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
